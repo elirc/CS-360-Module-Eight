@@ -8,3 +8,6 @@ The app I developed is an event tracking application, designed to help users dis
  Testing began with unit tests for individual components, followed by integration tests to evaluate how different parts interacted. 
 
  
+A challenge I had to overcome is integrating every part of the app. I attempted to do this by importing all the needed modules and libraries.
+
+The updating component of my app demonstrated my skills related to CRUD development.
